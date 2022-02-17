@@ -7,3 +7,6 @@ edition = "2018"
 
 [dependencies]
 clap = { version = "3.0.14", features = ["derive"] }
+shellwords = "1.1.0"
+strum = "0.23"
+strum_macros = "0.23"
